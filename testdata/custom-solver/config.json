@@ -1,0 +1,7 @@
+{
+    "masterId": "mydnsXXXXX",
+    "passwordSecretRef": {
+      "name": "mydns-secret",
+      "key": "password"
+    }
+  }
